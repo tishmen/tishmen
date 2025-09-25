@@ -3,4 +3,4 @@
 - ⚡ 10+ years Python
 - 🌍 Based in Macedonia
 - 💬 Languages: English (fluent)
-- 📫 Contact:  [LinkedIn]([link](https://www.linkedin.com/in/milan-topuzov/) | [Website](https://milantopuzov.dev)
+- 📫 Contact:  [LinkedIn](https://www.linkedin.com/in/milan-topuzov/) | [Website](https://milantopuzov.dev)
